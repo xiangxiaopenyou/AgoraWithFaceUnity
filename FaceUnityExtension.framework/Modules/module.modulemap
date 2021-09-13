@@ -1,0 +1,6 @@
+framework module FaceUnityExtension {
+  umbrella header "FaceUnityExtension.h"
+
+  export *
+  module * { export * }
+}
